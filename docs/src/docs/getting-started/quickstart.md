@@ -2,6 +2,7 @@
 layout: docs
 title: Quick-start guide
 permalink: /docs/quickstart/
+
 ---
 
 For the impatient, here's how to get a boilerplate *NotifyBC* instance up and running if you have git and node.js installed:
