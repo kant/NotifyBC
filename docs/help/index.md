@@ -6,7 +6,7 @@ Need help with NotifyBC? Try these resources.
 
 Our guide to NotifyBC covering installation, writing, customization, deployment, and more.
 
-### [View source](https://github.com/bcgov/MyGovBC-notification-server)
+### [View source](https://github.com/bcgov/NotifyBC)
 
 Use the source, Luke.
 

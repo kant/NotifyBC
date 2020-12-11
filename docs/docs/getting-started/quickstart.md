@@ -9,7 +9,7 @@ For the impatient, here's how to get a boilerplate *NotifyBC* instance up and ru
 
 ```sh
 ~ $ git clone \
-https://github.com/bcgov/MyGovBC-notification-server.git \
+https://github.com/bcgov/NotifyBC.git \
 notifyBC
 ~ $ cd notifyBC
 ~/notifyBC $ npm i -g yarn && yarn install
